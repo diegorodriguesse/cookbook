@@ -3,5 +3,4 @@
 Olá! Seja bem vindo ao livro de recietas.
 
  - Strogonoff de Frango
- - Comida
- - Vontade de comer 
+ - Pavê 
